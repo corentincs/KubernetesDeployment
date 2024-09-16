@@ -1,0 +1,1 @@
+This project demonstrates a simple deployment of a web application using Docker and Kubernetes. The application is containerized with Docker and orchestrated through Kubernetes to ensure scalability, high availability, and simplified management of resources.
